@@ -1,0 +1,17 @@
+ollama
+python-dotenv
+sounddevice
+numpy
+faster-whisper
+edge-tts
+pyttsx3
+pygame-ce
+pycaw
+pillow
+openwakeword
+pystray
+pynput
+mss
+fastembed
+google-api-python-client
+google-auth-oauthlib

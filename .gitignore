@@ -1,0 +1,45 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+credentials.json
+token.json
+data/secrets/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+.ruff_cache/
+*.py[cod]
+*$py.class
+
+# Distribution and package artifacts
+build/
+dist/
+*.egg-info/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Local databases and data storage
+data/
+backups/
+*.zip
+*.db
+*.sqlite
+*.sqlite3
+
+# Local runtime output and personal notes
+logs/
+screenshots/
+notes.md
